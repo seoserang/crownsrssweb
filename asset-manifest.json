@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/crownsrssweb/static/css/main.5d5675ea.css",
+    "main.js": "/crownsrssweb/static/js/main.0d562914.js",
+    "static/media/galaxy.mp4": "/crownsrssweb/static/media/galaxy.76cec37f91d183255d50.mp4",
+    "index.html": "/crownsrssweb/index.html",
+    "main.5d5675ea.css.map": "/crownsrssweb/static/css/main.5d5675ea.css.map",
+    "main.0d562914.js.map": "/crownsrssweb/static/js/main.0d562914.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d5675ea.css",
+    "static/js/main.0d562914.js"
+  ]
+}
