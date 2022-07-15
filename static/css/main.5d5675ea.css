@@ -142,9 +142,8 @@
 
 .personname .nametxt{
       display: flex;
-      height: 50px;
+      height: 75px;
       width: 550px;
-      margin: 5px 0px;
       font-family: 'EB Garamond', serif;
       font-size: 25px;
       font-weight: 600;
@@ -153,9 +152,8 @@
 
 .emailid .emailtxt{
       display: flex;
-      height: 50px;
+      height: 75px;
       width: 550px;
-      margin: 5px 0px;
       font-family: 'EB Garamond', serif;
       font-size: 25px;
       font-weight: 600;
@@ -164,9 +162,8 @@
 
 .subjecttext .subjecttxt{
       display: flex;
-      height: 50px;
+      height: 75px;
       width: 550px;
-      margin: 5px 0px;
       font-family: 'EB Garamond', serif;
       font-size: 25px;
       font-weight: 600;
