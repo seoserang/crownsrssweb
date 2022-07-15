@@ -21,7 +21,7 @@
 .contactbg .namebox{
       display: flex;
       justify-content: space-between;
-      height: 200;
+      height: 200px;
       width: 700px;
       background-color:  rgb(19, 24, 48);
       margin: 15px 0px;
