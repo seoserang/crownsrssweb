@@ -206,6 +206,14 @@
       text-decoration: underline;
 }
 
+.contactbg .submitbutton{
+      padding: 5px;
+      display: flex;
+      align-items: center;
+      width: 500px;
+      height: 250px;
+}
+
 ::placeholder {
       color: rgb(255, 255, 255);
 }
