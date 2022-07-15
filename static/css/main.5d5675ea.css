@@ -91,6 +91,7 @@
       font-weight: 700;
       height: 100px;
       width: 125px;
+      padding: 5px;
       border-radius: 40px;
       transition: .25s linear;
       background-image: linear-gradient(45deg,#00fffb,#fab64f,#00fffb,
@@ -106,6 +107,7 @@
       font-size: 30px;
       font-weight: 700;
       height: 100px;
+      padding: 5px;
       width: 125px;
       border-radius: 40px;
       transition: .25s linear;
@@ -121,7 +123,8 @@
       justify-content: center;
       font-size: 30px;
       font-weight: 700;
-      height: 100px;
+      height: 100px;      
+      padding: 5px;
       width: 125px;
       border-radius: 40px;
       transition: .25s linear;
@@ -138,6 +141,7 @@
       font-size: 30px;
       font-weight: 700;
       height: 100px;
+      padding: 5px;
       width: 125px;
       border-radius: 40px;
       border: 3px solid black;
