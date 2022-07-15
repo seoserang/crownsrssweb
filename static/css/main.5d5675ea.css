@@ -24,7 +24,6 @@
 .contactbg .namebox{
       display: flex;
       justify-content: space-between;
-      align-items: center;
       height: 150px;
       width: 700px;
       background-color:  rgb(19, 24, 48);
@@ -35,7 +34,6 @@
 
 .contactbg .emailbox{
       justify-content: space-between;
-      align-items: center;
       display: flex;
       height: 150px;
       width: 700px;
@@ -47,7 +45,6 @@
 
 .contactbg .subjectbox{
       justify-content: space-between;
-      align-items: center;
       display: flex;
       height: 150px;
       width: 700px;
